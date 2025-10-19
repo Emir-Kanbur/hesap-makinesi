@@ -1,4 +1,3 @@
-<<<<<<< HEAD
  Hakkında:
 
 Bu proje, Yozgat Bozok Universitesi BMH115-Bilgisayar Mühendisligine Giriş dersi için yapılmıstır. 
