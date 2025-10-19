@@ -21,4 +21,4 @@ Gelistiriciler:
 
 Harun Ziya Cırık  |  
 Emir Kanbur  |  
-Mehmet Ege Tezel
+Mehmet Ege Tezel  |  
