@@ -1,14 +1,4 @@
-#include <iostream>
 
-using namespace std;
-
-int main(){
-
-int sayi1 , sayi2;
-
-cout << "Lütfen iki adet sayı giriniz:"<<endl;
-
-cout<< "Lütfen birinci sayıyı giriniz:"<<endl;
 
 cin>>sayi1;
 
