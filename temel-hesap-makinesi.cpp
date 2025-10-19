@@ -27,3 +27,26 @@ int main() {
         cout << y - z;
         
     }
+    else if (x == 3) {
+        int y;
+        int z;
+        cout << "İlk sayıyı giriniz ";
+        cin >> y;
+        cout << "İkinci sayıyı giriniz ";
+        cin >> z;
+        cout << y * z;
+        
+    }
+    else if (x == 4) {
+        int y;
+        int z;
+        cout << "İlk sayıyı giriniz ";
+        cin >> y;
+        cout << "İkinci sayıyı giriniz ";
+        cin >> z;
+        cout << y / z;
+        
+    }
+
+    return 0;
+}
