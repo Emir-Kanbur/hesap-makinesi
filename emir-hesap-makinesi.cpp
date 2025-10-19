@@ -10,7 +10,6 @@ cout << "Lütfen iki adet sayı giriniz:"<<endl;
 
 cout<< "Lütfen birinci sayıyı giriniz:"<<endl;
 
-
 cin>>sayi1;
 
 cout<<"Sayınız:"<<sayi1<<endl;
@@ -27,3 +26,5 @@ cout<<"Çarpım:"<<sayi1*sayi2<<endl;
 cout<<"Bölüm:"<<sayi1/sayi2<<endl;
 
 }
+
+
