@@ -1,7 +1,9 @@
-selamlar deneme biter 
-<<<<<<< Updated upstream
-biter mi denemeler
-=======
+hesap makinesi 
+adadsdasd
+sadasdas
+sadadd
 
-selamlar deneme 
->>>>>>> Stashed changes
+naber harun
+selamlar selamlar selaaaamlarrrr
+deneme
+
