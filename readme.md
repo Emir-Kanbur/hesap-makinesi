@@ -16,7 +16,6 @@ Programlama Dili: C++
 Kullanılan Derleyici: Visual Studio Code
 
 Gelistiriciler:
-<<<<<<< HEAD
 Harun Ziya Cırık;
 Emir Kanbur;
 Mehmet Ege Tezel;
