@@ -1,1 +1,4 @@
-hesap makinesi:
+hesap makinesi 
+adadsdasd
+sadasdas
+sadadd
