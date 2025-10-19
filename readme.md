@@ -1,6 +1,6 @@
  Hakkında:
 
-Bu proje, Yozgat Bozok Universitesi BMH115-Bilgisayar Mühendisligine Giriş dersi için yapılmıstır. 
+Bu proje, Yozgat Bozok Universitesi BMH115-Bilgisayar Mühendisligine Giris dersi için yapılmıstır. 
 Proje bilgisayar mühendisligi birinci sınıf ögrencileri tarafından yapılmış olup, temel dört islem yapabilen ve hatalı bir ifade girildiğinde kullanıcıyı uyaran bir hesap makinesi projesidir.
 
  Ozellikler:
