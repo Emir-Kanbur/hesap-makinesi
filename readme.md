@@ -2,19 +2,24 @@
  Hakkında:
 
 Bu proje, Yozgat Bozok Universitesi BMH115-Bilgisayar Mühendisligine Giris dersi için yapılmıstır. 
-Proje bilgisayar mühendisligi birinci sınıf ögrencileri tarafından yapılmıs olup, temel dört islem yapabilen ve hatalı bir ifade girildiğinde kullanıcıyı uyaran bir hesap makinesi projesidir.
+Proje bilgisayar mühendisligi birinci sınıf ögrencileri tarafından yapılmıstır.
 
  Ozellikler:
-
+Temel Hesap Makinesi Özellikleri:
 -Toplama
 -Çıkarma
 -Çarpma
 -Bölme
--Hatalı giris kontrolü ve uyarılar
+
+Detay Hesap Makinesi Özellikleri:
+-Üs Alma
+-Karekök
+-Mod Alma
+-Faktoriyel Hesaplama
 
 Kullanılan Dil ve Derleyiciler: 
 
-Programlama Dili: C++
+Programlama Dili: C++ / Java
 Kullanılan Derleyici: Visual Studio Code
 
 Gelistiriciler:
