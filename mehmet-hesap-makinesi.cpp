@@ -1,3 +1,4 @@
+//javadan kodunu yazdım ve c++ a çevirdim.
 #include <iostream>
 #include <limits>
 
