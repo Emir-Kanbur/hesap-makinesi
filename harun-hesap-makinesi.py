@@ -1,4 +1,3 @@
-
 print("Yapmak istediğin işlemi seç:")
 print("1-Toplama\n2-Çıkarma\n3-Çarpma\n4-Bölme")
 
