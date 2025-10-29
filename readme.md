@@ -19,7 +19,7 @@ Detay Hesap Makinesi Özellikleri:
 
 Kullanılan Dil ve Derleyiciler: 
 
-Programlama Dili: C++ / Java
+Programlama Dili: C++ / Python
 Kullanılan Derleyici: Visual Studio Code
 
 Gelistiriciler:
